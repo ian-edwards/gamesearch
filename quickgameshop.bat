@@ -13,4 +13,4 @@ start https://www.argos.co.uk/search/%searchminus%/
 start https://www.coolshop.co.uk/s/?q=%searchspace%
 start https://www.thegamecollection.net/#sqr:(q[%searchspace%])
 start https://www.shopto.net/Gsi/Search?newsearch=%searchplus%
-start https://www.smythstoys.com/uk/en-gb/search/?text=searchplus
+start https://www.smythstoys.com/uk/en-gb/search/?text=%searchplus%
