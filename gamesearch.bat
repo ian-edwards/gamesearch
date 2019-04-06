@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title quickgameshop
+title gamesearch
 set /p search=Enter search text:
 set searchplus=%search: =+%
 set searchminus=%search: =-%
@@ -14,3 +14,4 @@ start https://www.coolshop.co.uk/s/?q=%searchspace%
 start https://www.thegamecollection.net/#sqr:(q[%searchspace%])
 start https://www.shopto.net/Gsi/Search?newsearch=%searchplus%
 start https://www.smythstoys.com/uk/en-gb/search/?text=%searchplus%
+start https://www.very.co.uk/e/q/%searchminus%.end
