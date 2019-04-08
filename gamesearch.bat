@@ -15,3 +15,4 @@ start https://www.thegamecollection.net/#sqr:(q[%searchspace%])
 start https://www.shopto.net/Gsi/Search?newsearch=%searchplus%
 start https://www.smythstoys.com/uk/en-gb/search/?text=%searchplus%
 start https://www.very.co.uk/e/q/%searchminus%.end
+start https://ao.com/l/search/101/99/?search=%searchspace%
