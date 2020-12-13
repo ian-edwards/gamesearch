@@ -17,3 +17,4 @@ start https://www.smythstoys.com/uk/en-gb/search/?text=%searchplus%
 start https://www.very.co.uk/e/q/%searchminus%.end
 start https://ao.com/l/search/101/99/?search=%searchspace%
 start https://www.simplygames.com/search?keywords=%searchplus%
+start https://www.thegamery.co.uk/catalogsearch/result/?q=%searchplus%
