@@ -20,3 +20,4 @@ start https://www.simplygames.com/search?keywords=%searchplus%
 start https://www.thegamery.co.uk/catalogsearch/result/?q=%searchplus%
 start https://www.shop4world.com/search/%searchplus%
 start https://www.go2games.com/catalogsearch/result/?q=%searchplus%
+start https://www.ebay.co.uk/sch/i.html?_nkw=%searchplus%
